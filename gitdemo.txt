@@ -1,0 +1,4 @@
+welcome to git session for csm
+we are ready to learn git
+
+hello world
